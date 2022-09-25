@@ -1,4 +1,7 @@
 
+# Who am I:
+Hello, I'm a student at the Lucerne University of Applied Sciences and Arts in Rotkreuz, Zug. I'm studying Aritificial Intelligence and Machine Learning and I would like to learn as much as possible. This page is not finished yet, so don't expect anything to fancy in here.
+
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tharrmeehan) 
 
