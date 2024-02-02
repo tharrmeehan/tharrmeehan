@@ -7,7 +7,7 @@ AI and Machine Learning
 Doing my bachelors
 
 * 🌍  I'm based in Zurich
-* 🖥️  See my portfolio at [tharrmeehan.com](http://tharrmeehan.com)
+* 🖥️  See my portfolio at [tharrmeehan.ch](https://tharrmeehan.ch)
 * ✉️  You can contact me at [tharrmeehan@hotmail.com](mailto:tharrmeehan@hotmail.com)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on interesting projects
