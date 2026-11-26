@@ -1,28 +1,10 @@
-![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/138c6180-56d6-45d2-be70-d5700b4451c6)
+I’m a working student at Swisslog and an MSc Applied Data Science & Artificial Intelligence student at HSLU. I work with Python and SQL to build data pipelines, check data quality and make information useful for reporting.
 
-I am a Data Science and AI/ML specialist. My experience spans building machine learning models, developing efficient data engineering pipelines, creating analytics dashboards, and deploying interactive applications.
+I’m based in Switzerland. More about my work and selected projects is on [my website](https://tharrmeehan.ch/).
 
----
+## Selected projects
 
-### Technical Focus
-
-* **AI/ML & Modeling:** Predictive Modeling, Time Series Analysis, NLP, Computer Vision, Reinforcement Learning
-* **Data Engineering & Libraries:** Polars, Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow
-* **Languages & Analytics:** Python, R (Tidyverse), Power BI, Matplotlib, Seaborn, Plotly
-* **Tooling & Deployment:** Streamlit, Marimo notebooks, Quarto, Typst, Git
-
----
-
-### Experience & Core Competencies
-
-* **Machine Learning & Statistical Modeling**
-  Training neural networks, implementing predictive models, and analyzing complex time series datasets.
-
-* **Data Engineering & Analysis**
-  Building reproducible workflows and data pipelines using high-performance libraries like Polars and the Tidyverse ecosystem to manipulate structural data efficiently.
-
-* **Data Visualization & BI**
-  Designing interactive Power BI dashboards and programmatic plots to turn raw data into clear, interpretable metrics.
-
-* **Deployment & Reporting**
-  Deploying data-driven applications via Streamlit, and compiling technical documentation and research summaries using reproducible reporting tools.
+- [Swiss Energy Forecast](https://github.com/tharrmeehan/swiss-energy-forecast) — A Python pipeline for 48-hour forecasts of Swiss electricity demand and renewable generation, with a [public dashboard](https://swiss-energy-forecast.vercel.app/).
+- [Swiss BGE RAG](https://github.com/tharrmeehan/swiss-bge-rag) — A scoped search prototype for Swiss Federal Supreme Court rulings, with cited answers and the option to decline when evidence is insufficient. [Try the demo](https://huggingface.co/spaces/tharrmeehan/swiss-bge-rag).
+- [SQL Data Warehouse](https://github.com/tharrmeehan/SQL-Data-Warehouse-Project) — A guided adaptation of a warehouse tutorial to PostgreSQL, with data quality checks.
+- [FinderLauncher](https://github.com/tharrmeehan/FinderLauncher) — An independent macOS utility for Finder actions, built with Swift.
