@@ -1,28 +1,11 @@
-![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/138c6180-56d6-45d2-be70-d5700b4451c6)
+# Tharrmeehan Krishnathasan
 
-I am a Data Science and AI/ML specialist. My experience spans building machine learning models, developing efficient data engineering pipelines, creating analytics dashboards, and deploying interactive applications.
+I build Python and SQL workflows for data validation and reporting. At Swisslog, I work on shipment data and document extraction for sustainability reporting. I'm pursuing an MSc in Applied Data Science & Artificial Intelligence at HSLU.
 
----
+[Portfolio](https://tharrmeehan.ch/) · [CV](https://tharrmeehan.ch/cv/) · [LinkedIn](https://www.linkedin.com/in/tharrmeehan/)
 
-### Technical Focus
+## Selected projects
 
-* **AI/ML & Modeling:** Predictive Modeling, Time Series Analysis, NLP, Computer Vision, Reinforcement Learning
-* **Data Engineering & Libraries:** Polars, Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow
-* **Languages & Analytics:** Python, R (Tidyverse), Power BI, Matplotlib, Seaborn, Plotly
-* **Tooling & Deployment:** Streamlit, Marimo notebooks, Quarto, Typst, Git
-
----
-
-### Experience & Core Competencies
-
-* **Machine Learning & Statistical Modeling**
-  Training neural networks, implementing predictive models, and analyzing complex time series datasets.
-
-* **Data Engineering & Analysis**
-  Building reproducible workflows and data pipelines using high-performance libraries like Polars and the Tidyverse ecosystem to manipulate structural data efficiently.
-
-* **Data Visualization & BI**
-  Designing interactive Power BI dashboards and programmatic plots to turn raw data into clear, interpretable metrics.
-
-* **Deployment & Reporting**
-  Deploying data-driven applications via Streamlit, and compiling technical documentation and research summaries using reproducible reporting tools.
+- [Swiss Energy Forecast](https://github.com/tharrmeehan/swiss-energy-forecast): An independent project that forecasts Swiss electricity demand, solar generation and wind generation 48 hours ahead. The [live dashboard](https://swiss-energy-forecast.vercel.app/) shows the forecasts and their prediction intervals.
+- [x28 Vacancy Reporting](https://tharrmeehan.ch/projects/#project-x28-vacancy-reporting): In this academic project, I traced a shortfall of 164 vacancy records to a missing XML page and built an Apache Hop and Azure SQL reporting pipeline.
+- [Swiss BGE RAG](https://github.com/tharrmeehan/swiss-bge-rag): A prototype that searches Swiss Federal Supreme Court rulings, cites retrieved passages in its answers, and can decline when it finds too little support.
